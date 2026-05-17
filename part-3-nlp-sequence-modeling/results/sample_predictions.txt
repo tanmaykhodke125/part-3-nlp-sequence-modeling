@@ -1,0 +1,33 @@
+Sample Predictions — Logistic Regression Baseline
+=======================================================
+
+✓ True: positive   | Pred: positive
+  Text: like new payment easy use ticket number...
+
+✓ True: positive   | Pred: positive
+  Text: great service clear communication support team...
+
+✓ True: negative   | Pred: negative
+  Text: refund still pending experience frustrating...
+
+✓ True: negative   | Pred: negative
+  Text: app crashes whenever try use analytics...
+
+✓ True: positive   | Pred: positive
+  Text: response team helpful professional...
+
+✓ True: neutral    | Pred: neutral
+  Text: someone explain difference plans...
+
+✓ True: positive   | Pred: positive
+  Text: like new video call easy use...
+
+✓ True: positive   | Pred: positive
+  Text: like new report download easy use...
+
+✓ True: neutral    | Pred: neutral
+  Text: someone explain difference plans...
+
+✓ True: neutral    | Pred: neutral
+  Text: want understand warranty terms product...
+

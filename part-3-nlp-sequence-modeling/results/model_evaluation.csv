@@ -1,0 +1,4 @@
+Model,Accuracy,F1 Score (weighted)
+Logistic Regression (TF-IDF),1.0,1.0
+Naive Bayes (TF-IDF),1.0,1.0
+Bidirectional LSTM,1.0,1.0
